@@ -1,6 +1,7 @@
+# rubocop:disable all
 require 'gilded_rose'
 
-# rubocop:disable all
+
 describe 'feature tests' do
   let(:potato) { Item.new('potato', 15, 2) }
   let(:sulfarus) { Item.new('Sulfuras, Hand of Ragnaros', 50, 80) }
