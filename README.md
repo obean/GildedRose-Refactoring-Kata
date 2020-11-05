@@ -8,6 +8,7 @@ This Kata was originally created by Terry Hughes (http://twitter.com/TerryHughes
 - clone this repo
 - install gems
 ```bash
+$ cd ruby
 $ bundle
 ```
 - run in irb
